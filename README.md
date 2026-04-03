@@ -49,7 +49,8 @@ cd Backend\
 node server.js
 
 3\. Setup Frontend:
-npm install
+
+npm install\
 npm start
 
 The frontend will run on http://localhost:3000
