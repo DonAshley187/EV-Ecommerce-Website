@@ -65,6 +65,20 @@ body {
     color: #FFF225; /* Brighter yellow on hover */
 }
 
+.dropdown-toggle {
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.dropdown-toggle:hover {
+    color: #FFF225; /* Brighter yellow on hover */
+}
+
+
 .dropdown-content {
     display: none;
     position: absolute;
@@ -78,17 +92,7 @@ body {
     padding: 15px 0;    
 }
 
-.dropdown-content a {
-    color: #FAFAFA; /* Lightest white for dropdown links */
-    padding: 10px 20px;
-    text-decoration: none;
-    display: block;
-    transition: color 0.3s;
-}
-
-.dropdown-content a:hover {
-    color: #FFF225; /* Brighter yellow on hover */
-}
+/* .dropdown-content a { color: #FAFAFA; Lightest white for dropdown links padding: 10px 20px; text-decoration: none; display: block; transition: color 0.3s; } .dropdown-content a:hover { color: #FFF225; } */
 
 .dropdown:hover .dropdown-content {
     display: block; /* Show dropdown on hover */
