@@ -8,11 +8,11 @@ modern, yellow-themed UI design.
 
 ## 🛠️ Tech Stack
 
-\- Frontend: React.js, Tailwind CSS\
-- Backend: Node.js, Express.js\
-- Payment Gateway: Razorpay\
-- Database: (Optional: MongoDB/MySQL)\
-- Email Service: Nodemailer\
+\- Frontend: React.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Payment Gateway: Razorpay
+- Database: (Optional: MongoDB/MySQL)
+- Email Service: Nodemailer
 - Deployment: (Optional: Vercel, Render, or custom hosting)
 
 ## 🚗 Features
@@ -50,8 +50,8 @@ node server.js
 
 3\. Setup Frontend:
 
-cd frontend\
-npm install\
+cd frontend
+npm install
 npm start
 
 The frontend will run on http://localhost:3000
@@ -60,11 +60,11 @@ The backend will run on http://localhost:5000
 
 ## 💳 Razorpay Payment Flow
 
-1\. User selects a model to pre-book.\
-2. Fills out the PreBook form (product name auto-filled).\
-3. Razorpay payment gateway popup appears.\
-4. After successful payment:\
-- Razorpay sends payment info to backend.\
+1\. User selects a model to pre-book.
+2. Fills out the PreBook form (product name auto-filled).
+3. Razorpay payment gateway popup appears.
+4. After successful payment:
+- Razorpay sends payment info to backend.
 - Backend sends email receipt confirmation to the user.
 
 ## 📬 Email Receipt
@@ -89,10 +89,8 @@ The backend will run on http://localhost:5000
 -   🚀 Reviews & Ratings for EV models.
 
 ## 👩‍💻 Author
-
 Ashwin Shinde
 
-## Screenshots:
 
 
 
