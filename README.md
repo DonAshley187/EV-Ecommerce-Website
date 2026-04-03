@@ -70,9 +70,9 @@ The backend will run on http://localhost:5000
 ## 📬 Email Receipt
 
 \- Nodemailer is used to send a booking confirmation email containing:\
-- Customer name\
-- Vehicle booked\
-- Booking ID\
+- Customer name
+- Vehicle booked
+- Booking ID
 - Payment details
 
 ## ✨ Future Enhancements (optional ideas)
