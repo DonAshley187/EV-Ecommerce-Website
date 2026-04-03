@@ -40,17 +40,15 @@ modern, yellow-themed UI design.
 
 1\. Clone the repository
 
-git clone https://github.com/yourusername/ev-ecommerce-website.git\
+git clone https://github.com/DonAshley187/EV-Ecommerce-Website.git
 cd ev-ecommerce-website
 
 2\. Start backend server:
 
-cd BTS\
+cd Backend\
 node server.js
 
 3\. Setup Frontend:
-
-cd frontend
 npm install
 npm start
 
@@ -60,10 +58,10 @@ The backend will run on http://localhost:5000
 
 ## 💳 Razorpay Payment Flow
 
-1\. User selects a model to pre-book.
-2. Fills out the PreBook form (product name auto-filled).
-3. Razorpay payment gateway popup appears.
-4. After successful payment:
+1\. User selects a model to pre-book.\
+2\. Fills out the PreBook form (product name auto-filled).\
+3\. Razorpay payment gateway popup appears.\
+4\. After successful payment:\
 - Razorpay sends payment info to backend.
 - Backend sends email receipt confirmation to the user.
 
