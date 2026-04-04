@@ -11,14 +11,10 @@ modern, yellow-themed UI design.
 \- Frontend: React.js, Tailwind CSS
 - Backend: Node.js, Express.js
 - Payment Gateway: Razorpay
-- Database: (Optional: MongoDB/MySQL)
 - Email Service: Nodemailer
 - Deployment: (Optional: Vercel, Render, or custom hosting)
 
 ## 🚗 Features
-
--   🌟 Homepage with dynamic word effects (Elegance, Minimalism,
-    Comfort).
 
 -   🌟 Image carousel showcasing EV models.
 
